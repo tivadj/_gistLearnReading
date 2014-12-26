@@ -1,2 +1,0 @@
-ReadDurM - reading time of one sitting in minutes (eg 1.5 = 1m 30s)
-Words    - number of read words
